@@ -140,6 +140,19 @@ Other universities, such as the University of Tokyo (9.1%) and HEC Paris (7.3%),
 
 ![Saudi Universities Ranking (Times Higher Rank 2023)](Charts/Timessa.png)
 
+
+- Top Ranked: KAUST and King Faisal University(101–200)
+
+- Mid Ranked: Prince Sultan University(301–400) Qassim University(401–600)
+
+- Lowest Ranked: University of Tabuk and Islamic University of Madinah(1001+)
+
+---
+
+8. **Saudi Universities Ranking  (World Rank)**: 
+
+![Saudi Universities Ranking  (World Rank)](Charts/Wr.png)
+
 - Top Ranked: 
 
 King Abdulaziz University(245)
@@ -153,17 +166,6 @@ Imam Abdulrahman Bin Faisal University(1547)
 - Lowest Ranked: 
 King Faisal University(1979)
 
----
-
-8. **Saudi Universities Ranking  (World Rank)**: 
-
-![Saudi Universities Ranking  (World Rank)](Charts/Wr.png)
-
-- Top Ranked: KAUST and King Faisal University(101–200)
-
-- Mid Ranked: Prince Sultan University(301–400) Qassim University(401–600)
-
-- Lowest Ranked: University of Tabuk and Islamic University of Madinah(1001+)
 ---
 
 9. **Shanghai Rank 2022 Total Score**: 
