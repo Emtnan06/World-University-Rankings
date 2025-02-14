@@ -84,7 +84,11 @@ datasets.
 ---
 2. **Top 10 Universities by Shanghai Rank 2023**: 
 
+<<<<<<< HEAD
 ![Top 10 Universities by Shanghai Rank 2023](Charts/TOP10.png)
+=======
+![Top 10 Universities by Shanghai Rank 2023](Charts/Top10.png)
+>>>>>>> 93177d8041cc417b1cb6a2129da89e7b9c7ead46
 
 - Harvard remains #1 for the second year in a row, solidifying its dominance in global academics and research.
 
