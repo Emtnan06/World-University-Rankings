@@ -126,7 +126,7 @@ Other universities, such as the University of Tokyo (9.1%) and HEC Paris (7.3%),
 
 6. **Saudi Universities Ranking (Shanghai Rank 2023)**: 
 
-![Saudi Universities Ranking (Shanghai Rank 2023](Charts/Topsa.png)
+![Saudi Universities Ranking (Shanghai Rank 2023](Charts/saShanghai.png)
 
 - Top Ranked: King Saud University and King Abdulaziz University.
 
@@ -138,7 +138,7 @@ Other universities, such as the University of Tokyo (9.1%) and HEC Paris (7.3%),
 
 7. **Saudi Universities Ranking (Times Higher Rank 2023)**: 
 
-![Saudi Universities Ranking (Times Higher Rank 2023)](Charts/Timessa.png)
+![Saudi Universities Ranking (Times Higher Rank 2023)](Charts/satimes.png)
 
 
 - Top Ranked: KAUST and King Faisal University(101–200)
@@ -151,7 +151,7 @@ Other universities, such as the University of Tokyo (9.1%) and HEC Paris (7.3%),
 
 8. **Saudi Universities Ranking  (World Rank)**: 
 
-![Saudi Universities Ranking  (World Rank)](Charts/Wr.png)
+![Saudi Universities Ranking  (World Rank)](Charts/saworld.png)
 
 - Top Ranked: 
 
@@ -237,24 +237,12 @@ King Faisal University(1979)
 - Other Countries Lag: Countries like India, Singapore, and Saudi Arabia have a smaller presence in the rankings.
 
 
-
-
-
-
-
-
-
-
-
-
 ## 💡 **Conclusion**
 Our analysis revealed that U.S. universities dominate global rankings, with Harvard, Stanford, and MIT consistently securing top positions due to their strong research output, faculty achievements, and academic excellence. Employability rankings, however, show a more diverse distribution, with universities from France, Japan, and Australia performing strongly. Saudi universities are gaining recognition, particularly in research and education rankings, with King Abdulaziz University and KAUST leading the region. Research rank was found to have the strongest correlation with overall university rankings, emphasizing its critical role in global positioning. Lastly, China leads Asia in the number of ranked universities, reflecting significant growth in higher education. These insights can guide students, researchers, and policymakers in making informed decisions about academic institutions worldwide.
 
 ---
-
-### 📝 **Notes:**
-- This project **does not** involve machine learning model building, evaluation, or deployment.
-- For more details, refer to the **Jupyter Notebook file**.
+## Presentation Link
+[World University Rankings Presentation](https://bit.ly/3CUr14v)
 
 ## 👤 Team Members:
 
